@@ -1,0 +1,154 @@
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\obj\Debug\cheat.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\obj\Debug\cheat.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\bin\Debug\ree\hack.dll
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\bin\Debug\ree\hack.pdb
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\obj\Debug\cheat.csproj.CopyComplete
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\obj\Debug\hack.dll
+C:\Users\Patrik\Desktop\Lithium-Hack-master\Lithium source\ExampleAssembly\obj\Debug\hack.pdb
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\hack.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\hack.pdb
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\Assembly-CSharp-firstpass.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\Assembly-CSharp.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AnimationModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.CoreModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.IMGUIModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.Networking.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.PhysicsModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UI.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UIModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AudioModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\Unity.TextMeshPro.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\amazon-gameon-api.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ParticleSystemModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\BouncyCastle.Crypto.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TextRenderingModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\Mono.Nat.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\Facepunch.Steamworks.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\zxing.unity.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TerrainModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.VideoModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UNETModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.JSONSerializeModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AIModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.VehiclesModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ClothModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.StyleSheetsModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ARModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.VRModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AccessibilityModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AssetBundleModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ClusterInputModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ClusterRendererModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.CrashReportingModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.DirectorModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.GameCenterModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.GridModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ImageConversionModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.InputModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.LocalizationModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.Physics2DModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.SharedInternalsModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.SpriteMaskModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.SpriteShapeModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.StreamingModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TilemapModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UIElementsModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityConnectModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.WindModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.XRModule.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\Newtonsoft.Json.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AnimationModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.CoreModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.IMGUIModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.PhysicsModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UIModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AudioModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ParticleSystemModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TextRenderingModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TerrainModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.VideoModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UNETModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.JSONSerializeModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AIModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.VehiclesModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ClothModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.StyleSheetsModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ARModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.VRModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AccessibilityModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.AssetBundleModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ClusterInputModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ClusterRendererModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.CrashReportingModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.DirectorModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.GameCenterModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.GridModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ImageConversionModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.InputModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.LocalizationModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.Physics2DModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.SharedInternalsModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.SpriteMaskModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.SpriteShapeModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.StreamingModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.TilemapModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UIElementsModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityConnectModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.WindModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\bin\Debug\ree\UnityEngine.XRModule.xml
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\obj\Debug\cheat.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\obj\Debug\cheat.csproj.CopyComplete
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\obj\Debug\hack.dll
+C:\Users\Tyler\Downloads\Lithium_source\Lithium source\ExampleAssembly\obj\Debug\hack.pdb
+C:\Users\Tyler\Documents\GitHub\Lithium-Hack\Source\ExampleAssembly\bin\Debug\ree\hack.dll
+C:\Users\Tyler\Documents\GitHub\Lithium-Hack\Source\ExampleAssembly\bin\Debug\ree\hack.pdb
+C:\Users\Tyler\Documents\GitHub\Lithium-Hack\Source\ExampleAssembly\obj\Debug\cheat.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Documents\GitHub\Lithium-Hack\Source\ExampleAssembly\obj\Debug\cheat.csproj.CopyComplete
+C:\Users\Tyler\Documents\GitHub\Lithium-Hack\Source\ExampleAssembly\obj\Debug\hack.dll
+C:\Users\Tyler\Documents\GitHub\Lithium-Hack\Source\ExampleAssembly\obj\Debug\hack.pdb
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\hack.dll
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\hack.pdb
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.TextRenderingModule.dll
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.SharedInternalsModule.dll
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.TextRenderingModule.xml
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.SharedInternalsModule.xml
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\cheat.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\cheat.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\cheat.csproj.CopyComplete
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\hack.dll
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\hack.pdb
+C:\Users\alex\Desktop\ayyyyy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\Unity.TextMeshPro.dll
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\cheat.csprojAssemblyReference.cache
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\cheat.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\hack.dll
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\hack.pdb
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\hack.dll
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\hack.pdb
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\Unity.TextMeshPro.dll
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.TextRenderingModule.dll
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.SharedInternalsModule.dll
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.TextRenderingModule.xml
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\bin\Debug\ree\UnityEngine.SharedInternalsModule.xml
+C:\Users\alex\Desktop\ayyyyy - Copy\Lithium-Hack-master\Source\ExampleAssembly\obj\Debug\cheat.csproj.CopyComplete
